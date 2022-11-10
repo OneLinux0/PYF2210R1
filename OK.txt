@@ -1,0 +1,30 @@
+nhập a = (số) (interger)
+b = a % 2
+nếu b = 0 và a > 10:
+  in (số chẵn lớn hơn 10)
+elif b = 0 và a <= 10:
+  in(số chẵn bé hoặc bằng 10)
+elif a <= 10:
+  in(số lẻ bé hơn hoặc bằng 10)
+elif a>10:
+  in(số lẻ lớn hơn 10)
+else:
+  in(Bị lỗi)
+
+Ghi chú:
+- Giới thiệu về GIT
+
+- Tải Git và thao tác y hệt file buổi 3
+
+- git add * : quăng hết lên phòng chờ
+- git status :
+- git log :
+- git commit -m "tên gì cũng đc":
+
+Và cuối cùng "git push" để đẩy lên local 
+ở github
+ 
+Giờ xoá file hay thêm file mới 
+hay modifie file thì nó biết hết
+
+
